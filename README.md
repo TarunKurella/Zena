@@ -1,9 +1,12 @@
 # zena
 [![built with flutter](https://img.shields.io/badge/built%20with-flutter-blue.svg?style=flat-square)](https://www.flutter.io)
 
-More info [here](http://www.tarunkurella.tk/zena/).
+
 
 ![](https://i.imgur.com/lXe4TLZ.gif)
+#
+More info [here](http://www.tarunkurella.tk/zena/).
+#
 
 #### 1. [Setup Flutter](https://flutter.io/setup/)
 
