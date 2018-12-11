@@ -31,7 +31,7 @@ $ cd zena/
  - [x] Connecting API's
  - [x] Improving UI and animations
  - [x] Training Dialogflow Agent
- - [ ] Using Webhooks to Exctract usefull information from chat
+ - [ ] Using Webhooks to Exract usefull information from chat
  - [ ] Designing engaging conversations
  - [ ] Clean up code
  - [ ] predifining personality traits for roles , against which candidates profile shall be compared
