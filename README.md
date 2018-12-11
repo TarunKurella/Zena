@@ -34,4 +34,4 @@ $ cd zena/
  - [ ] Using Webhooks to Exctract usefull information from chat
  - [ ] Designing engaging conversations
  - [ ] Clean up code
-  -[ ]  predifining personality traits for roles , against which candidates profile shall be compared
+  -[ ] predifining personality traits for roles , against which candidates profile shall be compared
