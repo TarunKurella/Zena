@@ -1,6 +1,6 @@
 # zena
 [![built with flutter](https://img.shields.io/badge/built%20with-flutter-blue.svg?style=flat-square)](https://www.flutter.io)
-[![powered by Dialogflow](https://img.shields.io/badge/powered%20by-dialogflow-brown.svg?style=flat-square)](https://firebase.google.com/)
+[![powered by Dialogflow](https://img.shields.io/badge/powered%20by-dialogflow-brown.svg?style=flat-square)](https://www.dialogflow.com/)
 
 
 
