@@ -1,6 +1,6 @@
 # zena
 
-A new Flutter project.
+More info [here](http://www.tarunkurella.tk/zena/)
 
 ![](https://i.imgur.com/lXe4TLZ.gif)
 
@@ -34,4 +34,4 @@ $ cd fluttergram/
  - [ ] Using Webhooks to Exctract usefull information from chat
  - [ ] Designing engaging conversations
  - [ ] Clean up code
-  - [ ]  predifining personality traits for roles , against which candidates profile shall be compared
+  -[ ]  predifining personality traits for roles , against which candidates profile shall be compared
