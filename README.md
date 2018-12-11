@@ -1,6 +1,6 @@
 # zena
 
-More info [here](http://www.tarunkurella.tk/zena/)
+More info [here](http://www.tarunkurella.tk/zena/).
 
 ![](https://i.imgur.com/lXe4TLZ.gif)
 
@@ -9,8 +9,8 @@ More info [here](http://www.tarunkurella.tk/zena/)
 #### 2. Clone the repo
 
 ```sh
-$ git clone https://github.com/mdanics/fluttergram.git
-$ cd fluttergram/
+$ git clone https://github.com/TarunKurella/zena.git
+$ cd zena/
 ```
 
 #### 3. Seting up your DialogFlow Agent
