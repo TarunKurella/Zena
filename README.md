@@ -15,23 +15,23 @@ $ cd fluttergram/
 
 #### 3. Seting up your DialogFlow Agent
 
-1. You'll need to create a Firebase instance. Follow the instructions at https://console.firebase.google.com.
-2. Once your Firebase instance is created, you'll need to enable anonymous authentication.
-
-* Go to the Firebase Console for your new instance.
-* Click "Authentication" in the left-hand menu
-* Click the "sign-in method" tab
-* Click "Google" and enable it
+1. First of all, we need to create a Google Cloud Platform Project using https://console.cloud.google.com/
+* Create or select an existing GCP project.
+* Enable the Dialogflow V2 API for that project.
+* Click on ENABLE APIS AND SERVICES and search for Dailog flow api. Then enable it.
+* From the Google Cloud service accounts page, select your project.
+* Download a private key as JSON.
+* From the GCP console, go to APIs and Services and click on credentials.
+* Click on Create credentials and choose Service account key.
+* Select your service account from the dropdown, choose JSON and click Create. This will download the JSON key to your computer. Save it securely.
+* Copy its contents to config/dialogflow.json
 
 # What's Next?
- - [x] Notificaitons for likes, comments, follows, etc
- - [ ] Improve Caching of Profiles, Images, Etc.
- - [ ] Better post creation, add filters to your image
- - [ ] Custom Camera Implementation
- - [ ] Animations (heart when liking image)
- - [ ] Firebase Security Rules
- - [ ] Delete Posts
- - [ ] Registration without Google SignIn
- - [ ] Direct Messaging
- - [ ] Stories
+ - [x] Implementing Chatbot 
+ - [x] Connecting API's
+ - [x] Improving UI and animations
+ - [x] Training Dialogflow Agent
+ - [ ] Using Webhooks to Exctract usefull information from chat
+ - [ ] Designing engaging conversations
  - [ ] Clean up code
+  - [ ]  predifining personality traits for roles , against which candidates profile shall be compared
