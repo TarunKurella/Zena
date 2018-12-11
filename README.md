@@ -1,4 +1,5 @@
 # zena
+[![built with flutter](https://img.shields.io/badge/built%20with-flutter-blue.svg?style=flat-square)](https://www.flutter.io)
 
 More info [here](http://www.tarunkurella.tk/zena/).
 
