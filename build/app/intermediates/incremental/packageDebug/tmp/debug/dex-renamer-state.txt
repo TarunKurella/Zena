@@ -1,4 +1,0 @@
-#Tue Dec 11 11:26:36 IST 2018
-base.0=/Users/tarunkurella/gitprojects/zena/build/app/intermediates/transforms/dexMerger/debug/0
-path.0=classes.dex
-renamed.0=classes.dex

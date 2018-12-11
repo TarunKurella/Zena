@@ -1,2 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="/Users/tarunkurella/gitprojects/zena/android/app/src/main/assets"/><source path="/Users/tarunkurella/gitprojects/zena/build/app/generated/assets/shaders/debug"/></dataSet><dataSet config="debug"><source path="/Users/tarunkurella/gitprojects/zena/android/app/src/debug/assets"/></dataSet></merger>
