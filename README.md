@@ -18,7 +18,7 @@ $ git clone https://github.com/TarunKurella/zena.git
 $ cd zena/
 ```
 
-#### 3. Seting up your DialogFlow Agent
+#### 3. Connecting up your DialogFlow Agent
 
 1. First of all, we need to create a Google Cloud Platform Project using https://console.cloud.google.com/
 * Create or select an existing GCP project.
